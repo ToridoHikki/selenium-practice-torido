@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.11.1"
+  },
+  "name": "sele-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
